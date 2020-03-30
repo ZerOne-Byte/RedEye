@@ -6,4 +6,4 @@
   * 2: Enter the name for file
   * 3: Click the 'Start Make ...'
   # <p align="center">Sreenshot
-  ![sreenshot](https://raw.githubusercontent.com/ZerOne-Byte/RedEye/master/logo.ico)
+  ![sreenshot](https://raw.githubusercontent.com/ZerOne-Byte/RedEye/master/sreenshot.PNG)
