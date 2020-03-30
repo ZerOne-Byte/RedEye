@@ -1,2 +1,3 @@
-# RedEye
-Virus Maker : Make A virus For Windows
+# <p align="center">RedEye
+<p align="center">With this script you can make virus for windows
+#
