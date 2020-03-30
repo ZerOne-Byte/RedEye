@@ -5,4 +5,5 @@
   * 1: Select the option you want
   * 2: Enter the name for file
   * 3: Click the 'Start Make ...'
-  # <p align="center">///
+  # <p align="center">Sreenshot
+  ![sreenshot](https://raw.githubusercontent.com/ZerOne-Byte/RedEye/master/logo.ico)
